@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084948637015",
+    "firebase_url": "https://gregapp-1124.firebaseio.com",
+    "project_id": "gregapp-1124",
+    "storage_bucket": "gregapp-1124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084948637015:android:dc815c79a295bd3a",
+        "android_client_info": {
+          "package_name": "com.logical.greg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084948637015-abk5255asbj6r5656tc4sme32c4ltf05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc3AwtcVM64HkH6yVqjPfXk004i0DNaUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
